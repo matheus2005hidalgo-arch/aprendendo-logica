@@ -4,6 +4,7 @@ alert(divisao.tolofixed(2))
 
 //alert(dinheiro.tolocaleString(`pt-br`,
 //{style: `currency`, currency: "brl"}))
-//alert(nome.toLocaleLowerCase()) MENUSCULO
-//alert(nome.toUpperCase()) TUDO MAIUSCULO
-//alert(nome.length) QUANTOS LATRAS TEM
+//alert(nome.toLocaleLowerCase()) minúsculo
+//alert(nome.toUpperCase()) maiúsculo
+
+//alert(nome.length) quantidades de letras
